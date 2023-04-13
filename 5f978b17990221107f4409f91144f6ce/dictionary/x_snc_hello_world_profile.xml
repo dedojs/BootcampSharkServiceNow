@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="209681ef99c621107f4409f91144f61b" extends="x_snc_hello_world_bootcampers" label="Profile" max_length="40" name="x_snc_hello_world_profile" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Estate" max_length="40" name="u_estate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Neighborhood" max_length="40" name="u_string_4" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Creator" source="com.glide.service_creator">5bb61cc95c9211107f44347096fdb426</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 23:14:43</sys_created_on>
+        <sys_id>a1183c2399c621107f4409f91144f6fb</sys_id>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

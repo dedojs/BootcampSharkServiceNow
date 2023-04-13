@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_hello_world_profile</description>
+        <name>x_snc_hello_world_profile</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 00:18:21</sys_created_on>
+        <sys_id>29a68def99c621107f4409f91144f6b6</sys_id>
+        <sys_name>x_snc_hello_world_profile</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_update_name>sys_security_acl_29a68def99c621107f4409f91144f6b6</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

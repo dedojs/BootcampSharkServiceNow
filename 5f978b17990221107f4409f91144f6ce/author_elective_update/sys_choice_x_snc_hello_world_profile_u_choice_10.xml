@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_10" table="x_snc_hello_world_profile" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_10</element>
+            <name>x_snc_hello_world_profile</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 00:16:30</sys_created_on>
+            <sys_name>u_choice_10</sys_name>
+            <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+            <sys_update_name>sys_choice_x_snc_hello_world_profile_u_choice_10</sys_update_name>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
