@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_gender" label="Gender" language="en" table="x_snc_hello_world_bootcampers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_gender</element>
+            <help/>
+            <hint/>
+            <label>Gender</label>
+            <language>en</language>
+            <name>x_snc_hello_world_bootcampers</name>
+            <plural>Genders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-12 23:32:20</sys_created_on>
+            <sys_name>Gender</sys_name>
+            <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_hello_world_bootcampers_u_gender_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

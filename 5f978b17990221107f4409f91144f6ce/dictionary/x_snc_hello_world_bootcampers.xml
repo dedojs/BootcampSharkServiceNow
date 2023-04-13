@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="32177cef998621107f4409f91144f6e5" extends="service_task" label="Bootcampers" max_length="40" name="x_snc_hello_world_bootcampers" type="collection">
+        <element label="Age" max_length="40" name="u_age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="u_birthday" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course" mandatory="true" max_length="40" name="u_course" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bootcamp" sequence="0" value="bootcamp"/>
+                <element inactive_on_update="false" label="ServiceNow Fundamentals" sequence="1" value="serviceFundamentals"/>
+                <element inactive_on_update="false" label="Shark Talent" sequence="2" value="shark talent"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="E-mail" mandatory="true" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="u_gender" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Occupation" max_length="40" name="u_occupation" type="string"/>
+        <element label="Have user on ServiceNow" max_length="40" name="u_userservicenow" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip Code" max_length="40" name="u_zip" type="string"/>
+    </element>
+</database>

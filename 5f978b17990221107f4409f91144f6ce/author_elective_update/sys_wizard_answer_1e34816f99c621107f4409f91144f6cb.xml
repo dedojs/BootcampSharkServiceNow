@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Profile</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Profile</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a6c154c55c1211107f44347096fdb40b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 00:07:45</sys_created_on>
+        <sys_id>1e34816f99c621107f4409f91144f6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Profile</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_update_name>sys_wizard_answer_1e34816f99c621107f4409f91144f6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 00:07:45</sys_updated_on>
+        <table/>
+        <target_url>x_snc_hello_world_profile.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">5f978b17990221107f4409f91144f6ce</application>
+        <file_path/>
+        <instance_id>c0c6798b478a29181baf3d55d36d43f9</instance_id>
+        <instance_name>nowlearning-nlinst00697422-001</instance_name>
+        <name>sys_wizard_answer_1e34816f99c621107f4409f91144f6cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Profile</answer><button_label/><dependent_value/><element/><name>Profile</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">a6c154c55c1211107f44347096fdb40b</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-13 00:07:45</sys_created_on><sys_id>1e34816f99c621107f4409f91144f6cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Profile</sys_name><sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package><sys_policy/><sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope><sys_update_name>sys_wizard_answer_1e34816f99c621107f4409f91144f6cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-13 00:07:45</sys_updated_on><table/><target_url>x_snc_hello_world_profile.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-103640756</payload_hash>
+        <record_name>Profile</record_name>
+        <reverted_from/>
+        <source>dca09c015c1211107f44347096fdb4cc</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-30 16:02:04</sys_created_on>
+        <sys_id>ae860def99c621107f4409f91144f640</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1838f2228600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>6e860def97c62110143109d28fa03240</update_guid>
+        <update_guid_history>6e860def97c62110143109d28fa03240:-103640756</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 00:17:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>6b53b00f64cb4e9f8bcf4f174f135b49</sys_id>
+        <sys_metadata>1e34816f99c621107f4409f91144f6cb</sys_metadata>
+        <sys_name>Profile</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_parent display_value="Task">a6c154c55c1211107f44347096fdb40b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_scope_delete display_value="">275e832bc7cf40c192a3cf9299962fd9</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_1e34816f99c621107f4409f91144f6cb</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_1e34816f99c621107f4409f91144f6cb">ae860def99c621107f4409f91144f640</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

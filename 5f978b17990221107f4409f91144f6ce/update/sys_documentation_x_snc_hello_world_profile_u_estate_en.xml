@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_estate" label="Estate" language="en" table="x_snc_hello_world_profile">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_estate</element>
+            <help/>
+            <hint/>
+            <label>Estate</label>
+            <language>en</language>
+            <name>x_snc_hello_world_profile</name>
+            <plural>Estates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 00:23:14</sys_created_on>
+            <sys_name>Estate</sys_name>
+            <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_hello_world_profile_u_estate_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
