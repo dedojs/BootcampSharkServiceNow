@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_age</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 21:22:57</sys_created_on>
+        <sys_id>3af725734d0a21107f44d8df20c6e0bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_age</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_update_name>sys_ui_policy_action_3af725734d0a21107f44d8df20c6e0bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 21:22:57</sys_updated_on>
+        <table>x_snc_hello_world_bootcampers</table>
+        <ui_policy display_value="If the course is differente of bootcamp">48d761734d0a21107f44d8df20c6e0b4</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">5f978b17990221107f4409f91144f6ce</application>
+        <file_path/>
+        <instance_id>c0c6798b478a29181baf3d55d36d43f9</instance_id>
+        <instance_name>nowlearning-nlinst00697422-001</instance_name>
+        <name>sys_ui_policy_action_3af725734d0a21107f44d8df20c6e0bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_age</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-13 21:22:57</sys_created_on><sys_id>3af725734d0a21107f44d8df20c6e0bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_age</sys_name><sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package><sys_policy/><sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope><sys_update_name>sys_ui_policy_action_3af725734d0a21107f44d8df20c6e0bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-13 21:22:57</sys_updated_on><table>x_snc_hello_world_bootcampers</table><ui_policy display_value="If the course is differente of bootcamp">48d761734d0a21107f44d8df20c6e0b4</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>412867583</payload_hash>
+        <record_name>u_age</record_name>
+        <reverted_from/>
+        <source>7aa764734d0621107f44d8df20c6e0dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 21:22:57</sys_created_on>
+        <sys_id>7d18ed334d0a21107f44d8df20c6e017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1877c8004b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 21:22:57</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>b518ed33ac0a211007e8844d1099f317</update_guid>
+        <update_guid_history>b518ed33ac0a211007e8844d1099f317:412867583</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 21:28:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>9b8f065f8e964e349e01dd955e801ad9</sys_id>
+        <sys_metadata>3af725734d0a21107f44d8df20c6e0bf</sys_metadata>
+        <sys_name>u_age</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_parent display_value="If the course is differente of bootcamp">48d761734d0a21107f44d8df20c6e0b4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_scope_delete display_value="">275e832bc7cf40c192a3cf9299962fd9</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_3af725734d0a21107f44d8df20c6e0bf</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_3af725734d0a21107f44d8df20c6e0bf">7d18ed334d0a21107f44d8df20c6e017</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

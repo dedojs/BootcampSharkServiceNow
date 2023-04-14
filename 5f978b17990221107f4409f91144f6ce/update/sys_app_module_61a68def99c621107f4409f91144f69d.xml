@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Profile">0234816f99c621107f4409f91144f67a</application>
+        <application display_value="Bootcampers">dd183c2399c621107f4409f91144f6b6</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -13,7 +13,7 @@
         <mobile_title>Profiles</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_hello_world_profile</name>
-        <order>100</order>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,14 +24,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>61a68def99c621107f4409f91144f69d</sys_id>
-        <sys_name>Profiles</sys_name>
+        <sys_name>Create New Profile</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
         <sys_update_name>sys_app_module_61a68def99c621107f4409f91144f69d</sys_update_name>
         <timeline_page/>
-        <title>Profiles</title>
+        <title>Create New Profile</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

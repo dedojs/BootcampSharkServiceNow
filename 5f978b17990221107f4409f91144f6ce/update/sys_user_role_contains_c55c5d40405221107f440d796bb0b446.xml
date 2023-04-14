@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_snc_hello_world.bootcampers_user" name="x_snc_hello_world.bootcampers_user">d9183c2399c621107f4409f91144f69e</contains>
+        <role display_value="x_snc_hello_world.Bootcamper" name="x_snc_hello_world.Bootcamper">faedc5e7990a21107f4409f91144f648</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 15:10:03</sys_created_on>
+        <sys_id>c55c5d40405221107f440d796bb0b446</sys_id>
+        <sys_name>x_snc_hello_world.bootcampers_user.x_snc_hello_world.Bootcamper</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_update_name>sys_user_role_contains_c55c5d40405221107f440d796bb0b446</sys_update_name>
+    </sys_user_role_contains>
+</record_update>
