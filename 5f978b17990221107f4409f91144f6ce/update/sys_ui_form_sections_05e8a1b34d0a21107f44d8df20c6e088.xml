@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="05e8a1b34d0a21107f44d8df20c6e088" sys_domain="global" table="x_snc_hello_world_bootcampers" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 21:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85e8a1b34d0a21107f44d8df20c6e08b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_hello_world_bootcampers" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">05e8a1b34d0a21107f44d8df20c6e088</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">85e8a1b34d0a21107f44d8df20c6e084</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-13 21:26:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 21:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81e8a1b34d0a21107f44d8df20c6e08c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_hello_world_bootcampers" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">05e8a1b34d0a21107f44d8df20c6e088</sys_ui_form>
+            <sys_ui_section caption="Approvers" display_value="Approvers" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">4de8a1b34d0a21107f44d8df20c6e085</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-13 21:26:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 21:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8de8a1b34d0a21107f44d8df20c6e09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_hello_world_bootcampers" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">05e8a1b34d0a21107f44d8df20c6e088</sys_ui_form>
+            <sys_ui_section caption="Group approvals" display_value="Group approvals" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">49e8a1b34d0a21107f44d8df20c6e086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-13 21:26:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 21:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45e8a1b34d0a21107f44d8df20c6e09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_hello_world_bootcampers" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">05e8a1b34d0a21107f44d8df20c6e088</sys_ui_form>
+            <sys_ui_section caption="Tasks" display_value="Tasks" name="x_snc_hello_world_bootcampers" sys_domain="global" view="b0e8a1b34d0a21107f44d8df20c6e01b">05e8a1b34d0a21107f44d8df20c6e087</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-13 21:26:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_hello_world_bootcampers</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-13 21:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05e8a1b34d0a21107f44d8df20c6e088</sys_id>
+            <sys_name>x_snc_hello_world_bootcampers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+            <sys_update_name>sys_ui_form_sections_05e8a1b34d0a21107f44d8df20c6e088</sys_update_name>
+            <sys_user/>
+            <view display_value="Bootcamper" name="Bootcamper">b0e8a1b34d0a21107f44d8df20c6e01b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

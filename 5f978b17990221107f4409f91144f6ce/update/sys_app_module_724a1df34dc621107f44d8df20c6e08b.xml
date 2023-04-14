@@ -5,33 +5,33 @@
         <assessment/>
         <device_type/>
         <filter/>
-        <hint>Create a record for bottcampers</hint>
+        <hint>List All of bootcampers</hint>
         <homepage/>
         <image/>
-        <link_type>NEW</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>List All BootCampers</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_hello_world_bootcampers</name>
-        <order>1000</order>
+        <order>400</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-04-12 23:44:20</sys_created_on>
+        <sys_created_on>2023-04-13 20:24:14</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>0f3efca799c621107f4409f91144f619</sys_id>
-        <sys_name>Create New Bootcamper</sys_name>
+        <sys_id>724a1df34dc621107f44d8df20c6e08b</sys_id>
+        <sys_name>All BootCampers</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
-        <sys_update_name>sys_app_module_0f3efca799c621107f4409f91144f619</sys_update_name>
+        <sys_update_name>sys_app_module_724a1df34dc621107f44d8df20c6e08b</sys_update_name>
         <timeline_page/>
-        <title>Create New Bootcamper</title>
+        <title>All BootCampers</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

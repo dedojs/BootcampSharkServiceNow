@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 15:35:30</sys_created_on>
+        <sys_id>8f106d44405221107f440d796bb0b415</sys_id>
+        <sys_name>.x_snc_hello_world.bootcampers_user</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
+        <sys_security_acl display_value="x_snc_hello_world_bootcampers.description">79106d44405221107f440d796bb0b405</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8f106d44405221107f440d796bb0b415</sys_update_name>
+        <sys_user_role display_value="x_snc_hello_world.bootcampers_user" name="x_snc_hello_world.bootcampers_user">d9183c2399c621107f4409f91144f69e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -4,7 +4,9 @@
         <application display_value="Bootcampers">dd183c2399c621107f4409f91144f6b6</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_snc_hello_world_bootcampers">state=3^EQ<item display_value="Approved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -13,7 +15,7 @@
         <mobile_title>Bootcampers</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_hello_world_bootcampers</name>
-        <order/>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,14 +26,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>59183c2399c621107f4409f91144f6ba</sys_id>
-        <sys_name>Bootcampers</sys_name>
+        <sys_name>List Bootcamper</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hello World" source="x_snc_hello_world">5f978b17990221107f4409f91144f6ce</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hello World">5f978b17990221107f4409f91144f6ce</sys_scope>
         <sys_update_name>sys_app_module_59183c2399c621107f4409f91144f6ba</sys_update_name>
         <timeline_page/>
-        <title>Bootcampers</title>
+        <title>List Bootcamper</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
